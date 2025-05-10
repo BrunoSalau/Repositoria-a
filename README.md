@@ -23,8 +23,7 @@ Vivamus vestibulum dignissim tellus, lacinia bibendum mi. Vivamus ultricies null
                 help@lipsum.com
                 Privacy Policy · 
                 freestar
-                
-</p>
+                </p>
                 </div>
             <div class="pad">
                 <div class="regis">
